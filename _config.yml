@@ -69,3 +69,5 @@ theme: apollo
 deploy:
   type: git
   repo: git@github.com:dukex/dukex.github.io.git
+
+fancybox: true
