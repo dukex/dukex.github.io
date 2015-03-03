@@ -4,9 +4,10 @@
 
 # Site
 title: Duke
-subtitle:
-description:
+subtitle: ""
+description: "I'm a Brazilian Web Developer, 22 years old, creator of <a href='http://uhura.io'>UhuraApp</a>, <a href='http://dataBR.io'>dataBR</a>, <a href='https://twitter.com/ideiasliberdade'>Ideias da Liberdade</a> and a lot of <a href='https://github.com/dukex?tab=repositories'>others open-source projects</a>. I like work with Javascript, Ruby and Golang, but I try make somethings with Java, ObjC, Python, etc"
 author: Duke
+author_image: "/images/duke.jpg"
 language:
 timezone:
 
@@ -71,3 +72,4 @@ deploy:
   repo: git@github.com:dukex/dukex.github.io.git
 
 fancybox: true
+google_analytics: UA-1984444-28
