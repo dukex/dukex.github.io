@@ -1,4 +1,4 @@
-title: "Grid System with love"
+title: "Presentation: Grid System with love"
 date: 2012-09-27 00:00:00
 tags: presentation
 ---

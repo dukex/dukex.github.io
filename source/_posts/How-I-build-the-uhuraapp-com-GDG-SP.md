@@ -1,4 +1,4 @@
-title: "How I build the uhuraapp.com - GDG-SP"
+title: "Presentation: How I build the uhuraapp.com"
 date: 2014-05-03 00:00:00
 tags: presentation
 ---

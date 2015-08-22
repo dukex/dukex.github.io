@@ -1,4 +1,4 @@
-title: "Data Scraping with Ruby"
+title: "Presentation: Data Scraping with Ruby"
 date: 2012-10-21 00:00:00
 tags: presentation
 ---
