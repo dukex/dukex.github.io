@@ -5,7 +5,7 @@
 # Site
 title: Duke
 subtitle: ""
-description: "I'm a Brazilian Software Developer, 23 years old, with +5 years of professional experience. I'm creator of project like <a href='http://uhura.io'>UhuraApp</a>, <a href='http://dataBR.io'>dataBR</a>, <a href='https://twitter.com/ideiasliberdade'>Ideias da Liberdade</a>, AugustaApp and a lot of <a href='https://github.com/dukex?tab=repositories'>others open-source projects</a> projects. I have worked with Javascript using EmberJS and NodeJs technologies, Ruby(with Rails) and Golang, and sometimes I try to make somethings with Java, Python, Scala, C, etc."
+description: "I'm a Brazilian Software Developer, 23 years old, with +5 years of professional experience. I'm creator of project like <a href='http://uhura.io'>UhuraApp</a>, <a href='http://dataBR.io'>dataBR</a>, <a href='https://twitter.com/ideiasliberdade'>Ideias da Liberdade</a>, AugustaApp and a lot of <a href='https://github.com/dukex?tab=repositories'>others open-source projects</a>. I have worked with Javascript using EmberJS and NodeJs technologies, Ruby(with Rails) and Golang, and sometimes I try to make somethings with Java, Python, Scala, C, etc."
 author: Duke
 author_image: "/images/duke.jpg"
 language:
