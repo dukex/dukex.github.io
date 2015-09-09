@@ -1,6 +1,6 @@
 title: Introdução Rápida em C
-date: 2015-08-22 09:47:23
-tags:
+date: 2015-09-9 00:03:23
+tags: c
 ---
 
 {% blockquote Wikipedia https://pt.wikipedia.org/wiki/C_%28linguagem_de_programa%C3%A7%C3%A3o%29 Linguagem de Programação C %}
