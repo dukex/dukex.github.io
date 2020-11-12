@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Emerson Almeida</title>
+    <link href="https://dukex,github.io/feed.xml" rel="self" />
+    <link href="https://dukex,github.io" />
+    <updated>1969-12-31T21:00:00-03:00</updated>
+    <author>
+        <name>Emerson Almeida</name>
+    </author>
+    <id>https://dukex,github.io</id>
+
+</feed>
