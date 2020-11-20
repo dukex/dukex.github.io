@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Emerson Almeida</title>
-    <link href="https:// emersonalmeida.wtf/feed.xml" rel="self" />
-    <link href="https:// emersonalmeida.wtf" />
-    <updated>2020-11-12T13:31:07-03:00</updated>
+    <link href="http:// emersonalmeida.wtf/feed.xml" rel="self" />
+    <link href="http:// emersonalmeida.wtf" />
+    <updated>2020-11-19T21:25:52-03:00</updated>
     <author>
         <name>Emerson Almeida</name>
     </author>
-    <id>https:// emersonalmeida.wtf</id>
+    <id>http:// emersonalmeida.wtf</id>
 
     <entry>
         <title>Tenha preguiça, escreva menos códigos</title>
         <author>
             <name>Emerson Almeida</name>
         </author>
-        <link href="https:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/"/>
-        <id>https:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/</id>
+        <link href="http:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/"/>
+        <id>http:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/</id>
 
-        <updated>2020-11-12T13:31:07-03:00</updated>
+        <updated>2020-11-19T21:25:52-03:00</updated>
             <summary>
                 <![CDATA[
                     Se você não é um desenvolvedor de software provavelmente não vai entender esse texto, mas mesmo assim, leia-o! Depois você poderá usar, de forma aleatória, algumas frases escritas aqui com as pessoas que trabalham com isso. Aviso dado, vamos ao texto. Imagine que você precisa,&hellip;
@@ -64,10 +64,11 @@
         <author>
             <name>Emerson Almeida</name>
         </author>
-        <link href="https:// emersonalmeida.wtf/introducao-rapida-em-c/"/>
-        <id>https:// emersonalmeida.wtf/introducao-rapida-em-c/</id>
+        <link href="http:// emersonalmeida.wtf/introducao-rapida-em-c/"/>
+        <id>http:// emersonalmeida.wtf/introducao-rapida-em-c/</id>
+            <category term="language"/>
 
-        <updated>2020-11-12T13:29:47-03:00</updated>
+        <updated>2020-11-19T21:25:44-03:00</updated>
             <summary>
                 <![CDATA[
                     C é uma das linguagens de programação mais populares e existem poucas arquiteturas para as quais não existem compiladores para C. C tem influenciado muitas outras linguagens de programação, mais notavelmente C++, que originalmente começou como uma extensão para C. Existem muitas vantagens em aprender&hellip;
