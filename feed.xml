@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Emerson Almeida</title>
-    <link href="https://dukex,github.io/feed.xml" rel="self" />
-    <link href="https://dukex,github.io" />
+    <link href="https://dukex.github.io/feed.xml" rel="self" />
+    <link href="https://dukex.github.io" />
     <updated>2020-11-12T13:31:07-03:00</updated>
     <author>
         <name>Emerson Almeida</name>
     </author>
-    <id>https://dukex,github.io</id>
+    <id>https://dukex.github.io</id>
 
     <entry>
         <title>Tenha preguiça, escreva menos códigos</title>
         <author>
             <name>Emerson Almeida</name>
         </author>
-        <link href="https://dukex,github.io/tenha-preguica-escreva-menos-codigos.html"/>
-        <id>https://dukex,github.io/tenha-preguica-escreva-menos-codigos.html</id>
+        <link href="https://dukex.github.io/tenha-preguica-escreva-menos-codigos.html"/>
+        <id>https://dukex.github.io/tenha-preguica-escreva-menos-codigos.html</id>
 
         <updated>2020-11-12T13:31:07-03:00</updated>
             <summary>
@@ -64,8 +64,8 @@
         <author>
             <name>Emerson Almeida</name>
         </author>
-        <link href="https://dukex,github.io/introducao-rapida-em-c.html"/>
-        <id>https://dukex,github.io/introducao-rapida-em-c.html</id>
+        <link href="https://dukex.github.io/introducao-rapida-em-c.html"/>
+        <id>https://dukex.github.io/introducao-rapida-em-c.html</id>
 
         <updated>2020-11-12T13:29:47-03:00</updated>
             <summary>
