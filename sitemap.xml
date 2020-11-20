@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dukex.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https:// emersonalmeida.wtf/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dukex.github.io/</loc>
+<loc>https:// emersonalmeida.wtf/</loc>
 </url>
 <url>
-<loc>https://dukex.github.io/introducao-rapida-em-c.html</loc>
+<loc>https:// emersonalmeida.wtf/authors/emerson-almeida/</loc>
+</url>
+<url>
+<loc>https:// emersonalmeida.wtf/introducao-rapida-em-c/</loc>
 <lastmod>2020-11-12T13:29:47-03:00</lastmod>
 </url>
 <url>
-<loc>https://dukex.github.io/tenha-preguica-escreva-menos-codigos.html</loc>
+<loc>https:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/</loc>
 <lastmod>2020-11-12T13:31:07-03:00</lastmod>
 </url>
 </urlset>

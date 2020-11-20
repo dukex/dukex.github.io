@@ -1,0 +1,582 @@
+<!doctype html><html amp lang="pt-br"><head><meta charset="utf-8"><title>Tenha preguiça, escreva menos códigos - Emerson Almeida</title><meta name="description" content="Se você não é um desenvolvedor de software provavelmente não vai entender esse texto, mas mesmo assim, leia-o! Depois você poderá usar, de forma aleatória, algumas frases escritas aqui com as pessoas que trabalham com isso. Aviso dado, vamos ao texto. Imagine que você precisa,&hellip;"><link rel="canonical" href="https:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/"><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" type="text/css"><script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script><script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script><script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:// emersonalmeida.wtf/amp/tenha-preguica-escreva-menos-codigos/"},"headline":"Tenha preguiça, escreva menos códigos","datePublished":"2020-11-12T13:31","dateModified":"2020-11-12T13:31","description":"Se você não é um desenvolvedor de software provavelmente não vai entender esse texto, mas mesmo assim, leia-o! Depois você poderá usar, de forma aleatória, algumas frases escritas aqui com as pessoas que trabalham com isso. Aviso dado, vamos ao texto. Imagine que você precisa,&hellip;","author":{"@type":"Person","name":"Emerson Almeida"},"publisher":{"@type":"Organization","name":"Emerson Almeida"}}</script><style amp-custom>article,
+aside,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+  display: block; }
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+amp-img {
+  max-width: 100%; }
+
+button,
+input,
+select,
+textarea {
+  font: inherit; }
+
+html {
+  font-size: 1rem; }
+
+body {
+  background: #f1f1f1;
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.6; }
+
+a {
+  color:  #039be5;
+  text-decoration: none;
+  -webkit-transition: all 0.12s linear 0s;
+  -o-transition: all 0.12s linear 0s;
+  transition: all 0.12s linear 0s; }
+
+a:hover {
+  color: #262626;
+  text-decoration: underline;
+  -webkit-text-decoration-skip: ink;
+  text-decoration-skip: ink; }
+
+a:active {
+  color: #262626; }
+
+a:focus {
+  outline: 2px dotted #039be5; }
+
+figure,
+blockquote,
+p,
+ul,
+ol,
+dl,
+table,
+hr,
+fieldset {
+  margin-top: 1.6rem; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-top: 2.13333rem; }
+
+h1 {
+  font-size: 1.67583rem;
+  font-weight: normal; }
+
+h2 {
+  font-size: 1.4729rem; }
+
+h3 {
+  font-size: 1.29454rem; }
+
+h4 {
+  font-size: 1.13778rem; }
+
+h5 {
+  font-size: 1rem; }
+
+h6 {
+  font-size: 0.87891rem; }
+
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p {
+  margin-top: 0.8rem; }
+
+b,
+strong {
+  font-weight: 600; }
+
+blockquote {
+  color: #6c7175;
+  font-family: "Droid Serif", "Times", "Source Serif Pro", serif;
+  font-style: italic;
+  padding: 1.33333rem 0.53333rem 1.33333rem 3.2rem;
+  position: relative; }
+  blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 4.41226rem;
+    position: absolute;
+    left: 0;
+    top: -12px;
+    color: rgba(108, 113, 117, 0.5); }
+  blockquote > :nth-child(1) {
+    margin-top: 0; }
+
+ul,
+ol {
+  margin-left: 2rem; }
+  ul > li,
+  ol > li {
+    list-style: inherit;
+    padding: 0 0 0.26667rem 0.26667rem; }
+
+dl dt {
+  color: #262626;
+  font-weight: 600; }
+
+code,
+pre {
+  background-color: #f1f1f1;
+  font-family: monospace; }
+
+pre {
+  margin: 1.6rem 0 0;
+  padding: 1.6rem;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-x: auto; }
+  pre > code {
+    color: #262626;
+    padding: 0; }
+
+code {
+  border-radius: 3px;
+  color: #262626;
+  padding: 0.26667rem 0.53333rem; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #d4d4d4;
+  width: 100%;
+  overflow-x: auto;
+  vertical-align: top;
+  text-align: left;
+  white-space: nowrap; }
+  table th {
+    font-weight: 500;
+    padding: 0.53333rem 1.06667rem; }
+  table tr {
+    border-bottom: 1px solid #d4d4d4; }
+    table tr:nth-child(2n) {
+      background: #f1f1f1; }
+  table td {
+    padding: 0.53333rem 1.06667rem; }
+
+figcaption {
+  clear: both;
+  color: rgba(108, 113, 117, 0.6);
+  font-size: 0.82397rem;
+  margin: 0.8rem 0 0;
+  text-align: center; }
+
+sub,
+sup {
+  font-size: 65%; }
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+
+.btn, [type=button],
+[type=submit],
+button {
+  background: #039be5;
+  border: none;
+  border-radius: 2px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.87891rem;
+  font-weight: 500;
+  line-height: 1.9;
+  padding: 0.53333rem 1.33333rem;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all .15s ease;
+  -o-transition: all .15s ease;
+  transition: all .15s ease;
+  width: auto; }
+  .btn:hover, [type=button]:hover,
+  [type=submit]:hover,
+  button:hover {
+    background: #262626;
+    color: #ffffff; }
+  .btn:focus, [type=button]:focus,
+  [type=submit]:focus,
+  button:focus {
+    outline: none; }
+  .btn-outline {
+    border: 1px solid #ddd;
+    background: #ffffff;
+    border-radius: 3px;
+    color: #262626; }
+
+[type=button],
+[type=submit],
+button {
+  text-transform: uppercase;
+  -webkit-appearance: none;
+  -moz-appearance: none; }
+
+.navbar {
+  background: #039be5;
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.2);
+  line-height: 3;
+  max-height: 4rem; }
+  .navbar > div {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto; }
+  .navbar a {
+    color: #ffffff;
+    text-decoration: none; }
+  .navbar-sidebar-toggle {
+    left: 0;
+    position: relative;
+    text-indent: -99999rem; }
+    .navbar-sidebar-toggle:before {
+      content: "";
+      display: block;
+      border-top: 0.375rem double #ffffff;
+      border-bottom: 0.125rem solid #ffffff;
+      height: 0.125rem;
+      position: absolute;
+      text-indent: 0;
+      top: 50%;
+      width: 1.3rem;
+      -webkit-transform: translate(0px, -50%);
+      -ms-transform: translate(0px, -50%);
+      transform: translate(0px, -50%); }
+
+
+.logo {
+            display: inline-block;
+  font-weight: 600;
+  line-height: 1;
+            margin: 0 auto;
+            height: 2rem;
+            text-indent: -9999px;
+            width: 240px;vertical-align: middle;
+        }
+        .logo.logo-text {
+            line-height: 2;
+            text-align: center;
+            text-indent: 0;
+        }
+
+amp-sidebar {
+  background: #ffffff;
+  width: 240px; }
+  amp-sidebar > ul {
+    margin: 0.8rem 0 0;
+    padding: 0; }
+    amp-sidebar > ul ul {
+      border-left: 1px solid #d4d4d4;
+      margin: 0.53333rem 0 0; }
+    amp-sidebar > ul li {
+      color: #262626;
+      font-size: 0.9375rem;
+      font-weight: 600;
+      list-style: none;
+      line-height: 1.4;
+      padding: 0.42667rem 1.06667rem; }
+      amp-sidebar > ul li li {
+        font-weight: normal;
+        padding: 0.26667rem 0 0.26667rem 1.06667rem; }
+    amp-sidebar > ul a,
+    amp-sidebar > ul a:visited {
+      color: #262626; }
+
+.bg-white {
+  background: #ffffff; }
+
+.wrap-page {
+  max-width: 700px;
+  margin: 0 auto; }
+
+@media all and (max-width: 43.6875em) {
+  .wrap-inner {
+    padding: 0 6%; } }
+
+.page-title {
+  background: #ffffff;
+  -webkit-box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  margin-bottom: 0.8rem;
+  padding: 1.6rem 6%; }
+  .page-title > h1 {
+    margin: 0;
+    font-size: 1.29454rem; }
+  .page-title > p {
+    font-size: 0.87891rem;
+    color: #6c7175;
+    line-height: 1.3;
+    margin: 0.26667rem 0 0; }
+  .page-title-author {
+    border-radius: 50%;
+    float: left;
+    height: 2.5rem;
+    width: 2.5rem; }
+    .page-title-author + h1 {
+      margin-left: 3.5rem; }
+      .page-title-author + h1 + p {
+        margin-left: 3.5rem; }
+
+.card {
+  background: #ffffff;
+  -webkit-box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  margin-bottom: 0.8rem;
+  padding-bottom: 1.06667rem; }
+
+  .card-meta {
+    border-top: 1px solid #d4d4d4;
+    color: rgba(108, 113, 117, 0.6);
+    font-size: 0.7242rem;
+    font-weight: 500;
+    margin-top: 1.06667rem;
+    padding-top: 1.06667rem;
+    text-transform: uppercase; }
+    .card-meta a + time:before {
+      content: "";
+      background: #d4d4d4;
+      display: inline-block;
+      height: 3px;
+      margin: 0 8px;
+      width: 3px;
+      vertical-align: middle;
+      border-radius: 50%; }
+  .card-text {
+    font-size: 0.9375rem;
+    overflow: hidden;
+    padding: 0 6%; }
+    .card-text h2 {
+      font-size: 1.13778rem; }
+
+.post {
+  margin-bottom: 2.13333rem; }
+  .post-featured-image {
+    margin-top: 0;
+    position: relative; }
+    .post-featured-image > figcaption {
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 3px;
+      color: #ffffff;
+      position: absolute;
+      bottom: 0.8rem;
+      padding: 0 0.26667rem;
+      right: 6%; }
+  .post-header {
+    margin-bottom: 2.13333rem; }
+  .post-meta {
+    border-bottom: 1px solid #d4d4d4;
+    color: rgba(108, 113, 117, 0.6);
+    font-size: 0.7242rem;
+    font-weight: 500;
+    margin-top: 1.06667rem;
+    padding-bottom: 1.06667rem;
+    text-transform: uppercase; }
+    .post-meta a + time:before {
+      content: "";
+      background: #d4d4d4;
+      display: inline-block;
+      height: 3px;
+      margin: 0 8px;
+      width: 3px;
+      vertical-align: middle;
+      border-radius: 50%; }
+  .post-tag {
+    margin: 0; }
+    .post-tag > li {
+      display: inline-block;
+      padding: 0; }
+      .post-tag > li a {
+        background: #f1f1f1;
+        border-radius: 2px;
+        color: #6c7175;
+        font-size: 0.77248rem;
+        display: inline-block;
+        margin: 0 0.26667rem 0.26667rem 0;
+        padding: 0.26667rem 0.53333rem; }
+        .post-tag > li a:hover {
+          background: #039be5;
+          color: #ffffff;
+          text-decoration: none; }
+  .post-share {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 1.6rem;
+    width: 100%; }
+    .post-share amp-social-share {
+      -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
+      background-size: 24px; }
+  .post-scroll {
+    color: #ffffff;
+    background: #039be5;
+    bottom: 10px;
+    border-radius: 50%;
+    border: none;
+    -webkit-box-shadow: 0 1px 1.5px 0 rgba(38, 38, 38, 0.12), 0 1px 1px 0 rgba(38, 38, 38, 0.24);
+    box-shadow: 0 1px 1.5px 0 rgba(38, 38, 38, 0.12), 0 1px 1px 0 rgba(38, 38, 38, 0.24);
+    font-size: 1.13778rem;
+    height: 46px;
+    opacity: 0;
+    outline: none;
+    position: fixed;
+    padding: 0;
+    right: 4%;
+    visibility: hidden;
+    width: 46px;
+    z-index: 9999; }
+    .post-scroll-marker {
+      height: 0px;
+      position: absolute;
+      top: 100px;
+      width: 0px; }
+        .post-pagination {
+    background: #f1f1f1;
+    -webkit-box-shadow: inset 0 2px 3px rgba(38, 38, 38, 0.1);
+    box-shadow: inset 0 2px 3px rgba(38, 38, 38, 0.1);
+    border-top: 1px solid #d4d4d4;
+    padding: 1.06667rem 0; }
+    .post-pagination > div {
+      line-height: 1.2;
+      padding: 0.53333rem 1.06667rem;
+      text-align: center; }
+      .post-pagination > div span {
+        display: block;
+        color: #6c7175;
+        font-size: 0.7242rem;
+        font-weight: 500;
+        margin-bottom: 0.26667rem;
+        text-transform: uppercase; }
+    .post-pagination-prev a:before {
+      content: "\2190";
+      margin-right: 0.26667rem; }
+    .post-pagination-next a:after {
+      content: "\2192";
+      margin-left: 0.26667rem; }
+
+aside {
+  margin: 1.6rem 0 0; }
+
+.align-left {
+  text-align: left; }
+
+.align-right {
+  text-align: right; }
+
+.align-center {
+  text-align: center; }
+
+.align-justify {
+  text-align: justify; }
+
+.msg {
+  border-left: 2px solid transparent;
+  padding: 1.06667rem 1.06667rem; }
+  .msg--highlight {
+    background-color: #fff8e6;
+    border-color: #e2ac4f; }
+  .msg--info {
+    background: rgba(45, 97, 201, 0.03);
+    border-color: #039be5; }
+  .msg--success {
+    background: #f7fbf6;
+    border-color: #5ab44b; }
+  .msg--warning {
+    background: #fff3f3;
+    border-color: #c06367;
+    color: #a94442; }
+
+.dropcap:first-letter {
+  float: left;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 2.16943rem;
+  line-height: 0.7;
+  margin-right: 0.53333rem;
+  padding: 0.53333rem 0.53333rem 0.53333rem 0; }
+
+.pagination {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0.8rem 0; }
+  .pagination > a {
+    padding-left: 0;
+    padding-right: 0;
+    width: 49%; }
+  .pagination-right {
+    margin-left: auto; }
+
+.bottom {
+  background: #039be5;
+  color: #ffffff;
+  padding: 1.06667rem 4%;
+  text-align: center; }</style><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><script async src="https://cdn.ampproject.org/v0.js"></script><script custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js" async></script><script custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js" async></script></head><body class="bg-white"><nav class="navbar wrap-inner" id="top"><div><a on="tap:navbar-sidebar.toggle" class="navbar-sidebar-toggle" title="Menu">Menu</a> <a class="logo logo-text" href="https:// emersonalmeida.wtf/amp/">Emerson Almeida</a></div></nav><main class="wrap-page"><article class="post"><div class="wrap-inner"><header class="post-header"><h1>Tenha preguiça, escreva menos códigos</h1><p class="post-meta">By <a href="https:// emersonalmeida.wtf/amp/authors/emerson-almeida/" rel="nofollow" title="Emerson Almeida">Emerson Almeida</a> <time datetime="2020-11-12T13:31">Novembro 12, 2020</time></p></header><p>Se você não é um desenvolvedor de <em>software</em> provavelmente não vai entender esse texto, mas mesmo assim, leia-o! Depois você poderá usar, de forma aleatória, algumas frases escritas aqui com as pessoas que trabalham com isso.</p><p>Aviso dado, vamos ao texto.</p><p>Imagine que você precisa, por exemplo, comparar ou manipular uma <em>string</em> que segue o formato <a href="https://semver.org" rel="nofollow"><em>semver</em></a>. Em Ruby, algo como <code>Gem::Version.new('1.2.3')</code> será mais eficiente, testado e confiável para trabalhar com comparação ou manipulação de versão. Isso significa que nenhuma linha de código que lida com o <em>semver</em> será escrita. O <em>Ruby</em> já te dá essa funcionalidade.</p><p>Não penso que seja um absurdo alguém pensar em escrever códigos mirabolantes para lidar com isso, mas quem faz, faz por não conhecer sua própria ferramenta de trabalho ou por ter tempo de sobra disponível. Esse exemplo é bem simples, mas é fácil transpor ele para diversos casos do dia a dia. Deixa eu ser mais claro sobre isso, escrever códigos que alguma biblioteca ou a própria linguagem te entrega não é necessariamente ruim do ponto de vista do quanto se aprende e do quanto se pode contribuir para o ecossistema em que o código está escrito. Nesse sentido não vejo valor para o produto desenvolvido, mas acredito que de certa forma, é na dialética dessas implementações que surgem bibliotecas ou melhorias em uma linguagem, é claro que existe uma distância grande entre o código que você está fazendo no dia a dia e contribuições <em>open source</em>, o que de certo modo é triste.</p><p>O problema que quero expor aqui é quando pela falta de preguiça um desenvolver sai escrevendo ou reescrevendo códigos como se não houve amanhã, como o meu exemplo inicial.</p><p>É conhecido de muitos a máxima <a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all" rel="nofollow"><em>O melhor código é o não-código</em></a>, em inglês fica melhor essa frase, em português me sinto um tanto deleuziano traduzindo dessa forma, por falar em filosofia, daria para escrever outro post sobre “a metafísica do não-código, ou, como os heróis do dia a dia, aqueles que trabalham com o não-código, não são reconhecidos”, mas fica para outra hora.</p><p>Voltando. O grande Jeff Atwood, criador, dentre outras coisas, do Stack Overflow, <a href="https://blog.codinghorror.com/the-best-code-is-no-code-at-all" rel="nofollow">nesse artigo</a>, escreve algo interessante, que cito em uma tradução minha:</p><blockquote><p>Como um desenvolver de software, você é o seu pior inimigo. Quanto mais cedo você perceber isso, melhor você será.</p></blockquote><p>Resumindo, você está sempre se fudendo, e fudendo com seus amigos de trabalho, enquanto eles se fudendo, fode você também. Uma verdadeira suruba sodomita com autoflagelação.</p><p>Bizarro, desculpa por parecer deleuziano novamente, mas essa situação, às vezes constrangedora, de estar fazendo algo que não se sustentará até a próxima funcionalidade, acontece todos os dias. É um ciclo de frustração, pois você sabe que escrever mais código significa que, em breve, alguém ficará chateado com ele, e esse alguém pode ser você.</p><p>A solução realista, afinal muitas vezes somos pagos para escrever código – nem sempre dá para ser o herói do não-código – parece ser estudar. Me desculpe novamente, dessa vez pelo clichê.</p><p>Depois que comecei programar demorei para ter um mentor, então quando tive meu primeiro eu já escrevia muito código por aí. A minha primeira surpresa, na qual nunca vou esquecer, era a capacidade do meu mentor de escrever códigos maravilhosamente pequenos e de uma forma elegante, isso era evidente nos <em>reviews</em> que ele fazia, eu gastava 20 linhas e ele reescrevia em 5, para ser conservador aqui. Isso me intrigava bastante. Nem sempre menos linhas é melhor que mais, por exemplo, quando menos linhas significar perder a legibilidade do código, mas esse não era o caso das implementações do meu mentor.</p><p>Com tempo fui entendo a situação, eu sabia programar. Eu sabia colocar uma série de <em>ifs</em> e <em>elses</em> para criar estruturas lógicas e fazer o programa chegar onde deveria. O problema era que eu só tinha um martelo, então tudo para mim era prego. A famosa <em>law of the instrument</em>.</p><blockquote><p>I call it the law of the instrument, and it may be formulated as follows: Give a small boy a hammer, and he will find that everything he encounters needs pounding.</p><p>Abraham Kaplan, The Conduct of Inquiry</p></blockquote><p>Tem um livro chamado <a href="https://amzn.to/2VWZE1J" rel="nofollow">AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis</a> que fala sobre o <em>anti-pattern</em> <em>Golden Hammer</em>, ele é associado muito com as ferramentas, linguagens, banco de dados, padrões, etc, que escolhemos para resolver nossos problemas.</p><p>Em desenvolvedores menos experientes isso pode ser aplicado principalmente ao modo que escrevemos códigos, quando encontramos um padrão que seja interessante temos uma tendência a querer aplicá-lo em todos os lugares, por exemplo, um <em>refactor</em> que deu certo em um contexto, vamos aplicando ele em todos os outros contextos, ou quando um jovem programador, acostumado a escrever de forma procedural aprende as maravilhas da orientação a objeto, e tudo para começa a girar em torno de criação de classes.</p><p>Voltando à minha intriga em relação ao meu mentor de escrever códigos melhores que o meu, foi quando comecei a estudar mais as ferramentas que eu usava, e as que eu não usava, que passei a escrever menos código e minhas soluções iam ficando cada vez melhor, pois cada vez mais ia diminuindo um ciclo de solucionar problemas já resolvidos.</p><p>Foi quando conheci <em>Ruby</em> que meus códigos em <em>PHP</em> ficaram melhores, foi quando li o <a href="https://amzn.to/2PV2T64" rel="nofollow">Clean Code</a> que comecei a pensar na organização do meus projeto de outra forma.</p><p>Esse é um processo que nunca acaba, conforme vamos tomando consciência das ferramentas, das práticas, dos padrões, menos tempo passamos escrevendo códigos, e não é sobre escrever mais rápido ou mais lento, é sobre escalabilidade, sobre clareza, sobre menos <em>bugs</em>, sobre beleza, e por aí vai.</p><p>Ter a preguiça de escrever código, é a desconfiança de que alguém já resolveu o seu problema, e com certeza alguém na década de 70 ou 80 já escreveu um livro sobre isso. Em empresas com múltiplas equipes às vezes a equipe ao lado resolveu seu problema.</p><p>Tenha preguiça, ou pelo menos tenha a desconfiança de que você não será o gênio da história da computação que resolverá aquele problema, alguém possivelmente já resolveu, então seja o herói que entrega solução, e que além de gerar valor, não aumenta a carga de manutenção no software.</p><p>Eu gostaria de terminar da mesma forma que o Jeff Atwood terminou o texto dele:</p><blockquote><p>Se você ama escrever código, ama verdadeiramente escrever código, você vai amar o suficiente para escrever o mínimo possível.</p></blockquote><p>Abraços</p><aside><div class="post-share"><amp-social-share type="system" width="40" height="40" data-param-text="Tenha preguiça, escreva menos códigos"></amp-social-share><amp-social-share type="facebook" width="40" height="40" data-param-app_id="" data-param-text="Tenha preguiça, escreva menos códigos" data-param-href="https:// emersonalmeida.wtf/amp/tenha-preguica-escreva-menos-codigos/"></amp-social-share><amp-social-share type="twitter" width="40" height="40" data-param-text="Tenha preguiça, escreva menos códigos" data-param-url="https:// emersonalmeida.wtf/amp/tenha-preguica-escreva-menos-codigos/"></amp-social-share><amp-social-share type="pinterest" width="40" height="40" data-param-url="https:// emersonalmeida.wtf/amp/tenha-preguica-escreva-menos-codigos/"></amp-social-share><amp-social-share type="tumblr" width="40" height="40" data-param-text="Tenha preguiça, escreva menos códigos" data-param-url="https:// emersonalmeida.wtf/amp/tenha-preguica-escreva-menos-codigos/"></amp-social-share><amp-social-share type="whatsapp" width="40" height="40" data-param-text="Tenha preguiça, escreva menos códigos" data-param-url="https:// emersonalmeida.wtf/amp/tenha-preguica-escreva-menos-codigos/"></amp-social-share></div></aside></div></article><nav class="post-pagination wrap-inner"><div class="post-pagination-prev"><span>Previous</span> <a href="https:// emersonalmeida.wtf/amp/introducao-rapida-em-c/">Introdução Rápida Em C</a></div></nav></main><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{
+                    "duration": "200ms",
+                    "fill": "both",
+                    "iterations": "1",
+                    "direction": "alternate",
+                    "animations": [{
+                        "selector": ".post-scroll",
+                        "keyframes": [{
+                            "opacity": "1",
+                            "visibility": "visible",
+                            "transform": "scale(1)"
+                        }]
+                    }]
+                }</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{
+                    "duration": "200ms",
+                    "fill": "both",
+                    "iterations": "1",
+                    "direction": "alternate",
+                    "animations": [{
+                        "selector": ".post-scroll",
+                        "keyframes": [{
+                            "opacity": "0",
+                            "visibility": "hidden",
+                            "transform": "scale(0.1)"
+                        }]
+                    }]
+                }</script></amp-animation><div class="post-scroll-marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><button class="post-scroll" on="tap:top.scrollTo(duration=200)">&#8593;</button><footer class="bottom">Powered by Publii</footer><amp-sidebar id="navbar-sidebar" layout="nodisplay"><ul></ul></amp-sidebar></body></html>
