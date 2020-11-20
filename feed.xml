@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Emerson Almeida</title>
-    <link href="http:// emersonalmeida.wtf/feed.xml" rel="self" />
-    <link href="http:// emersonalmeida.wtf" />
+    <link href="https://emersonalmeida.wtf/feed.xml" rel="self" />
+    <link href="https://emersonalmeida.wtf" />
     <updated>2020-11-19T21:25:52-03:00</updated>
     <author>
         <name>Emerson Almeida</name>
     </author>
-    <id>http:// emersonalmeida.wtf</id>
+    <id>https://emersonalmeida.wtf</id>
 
     <entry>
         <title>Tenha preguiça, escreva menos códigos</title>
         <author>
             <name>Emerson Almeida</name>
         </author>
-        <link href="http:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/"/>
-        <id>http:// emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/</id>
+        <link href="https://emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/"/>
+        <id>https://emersonalmeida.wtf/tenha-preguica-escreva-menos-codigos/</id>
 
         <updated>2020-11-19T21:25:52-03:00</updated>
             <summary>
@@ -64,8 +64,8 @@
         <author>
             <name>Emerson Almeida</name>
         </author>
-        <link href="http:// emersonalmeida.wtf/introducao-rapida-em-c/"/>
-        <id>http:// emersonalmeida.wtf/introducao-rapida-em-c/</id>
+        <link href="https://emersonalmeida.wtf/introducao-rapida-em-c/"/>
+        <id>https://emersonalmeida.wtf/introducao-rapida-em-c/</id>
             <category term="language"/>
 
         <updated>2020-11-19T21:25:44-03:00</updated>
