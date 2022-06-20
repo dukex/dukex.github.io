@@ -2,7 +2,7 @@
 layout: post
 title: Tenha preguiça, escreva menos códigos 
 date: 2020-11-12 13:31:00
-categories: [thinking developers]
+categories: [thinking, opinion, developers]
 ---
 
 Se você não é um desenvolvedor de _software_ provavelmente não vai entender esse texto, mas mesmo assim, leia-o! Depois você poderá usar, de forma aleatória, algumas frases escritas aqui com as pessoas que trabalham com isso.
