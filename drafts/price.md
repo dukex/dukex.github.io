@@ -5,11 +5,13 @@ Price is f(x) -> y where x is set of parameters and y is the result of this
 
 Let's think about the set of parameters as a arbitrary set of parameters that make senses to the bussines.
 
+```
 {
     "store_id": "ML931",
     "quantity": 4,
     "item_id": "SK657"
 }
+```
 
 store_id is the id of the store, each store has your profit ration and the sales commission, 
 quantity is the quantity of the item the client want to buy
@@ -26,6 +28,7 @@ Let's see the table of charge parameters
 
 Let's to merge the charge parameters and the parameters
 
+```
 {
     "store_id": [{
         "parameter": "store_id",
@@ -53,6 +56,7 @@ Let's to merge the charge parameters and the parameters
     }]
 }
 
+```
 
 
 ((2.00) * 1.02) * 4 = 8,16
@@ -60,6 +64,7 @@ Let's to merge the charge parameters and the parameters
 
 
 
+```
 CREATE TABLE pricing (
   "parameter" varchar(20), 
   "value" varchar(50), 
@@ -122,3 +127,6 @@ SELECT parameter
   WHEN 'addition' THEN SUM(factor) OVER (ORDER BY p.order ASC)
   END as price
 FROM mergedData p
+
+
+```
