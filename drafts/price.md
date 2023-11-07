@@ -1,3 +1,33 @@
+I asked to chatgpt about how a price is composed.
+
+We normally have an idea that the price formula is `price = cost + profit`. It's awesome idea, we can increase and decrease the price changing the profit or the cost, we know some products have a high margin, per example, so we can profit big, or we know a healthy way to decrease a price is decreasing the cost, so why not find an innovative way and decreate the cost?, and we have many companies try to find this genius way to make cost cheaper.
+
+Despite this nice ideia to see price, in the real world it's a bit more complex.
+
+The chatgpt tell me, in a simple, but not simplity, way we can determine a price using 10 steps and considerations, that are: 
+
+**1. ** Market Research;
+**2. ** Cost Analysis;
+**3. ** Pricing Objectives;
+**4. ** Pricing Strategies;
+**5. ** Competitive Analysis;
+**6. ** Value Proposition;
+**7. ** Psychological Factors;
+**8. ** Regulatory and Legal Considerations;
+**9. ** Testing and Optimization;
+**10. ** Regular Review and Adaptation;
+
+This is a nice list, and just with one or two subjective considerations, our simple formula goes away.
+
+Each consideration could have a proper article about it, years ago I discovery I love study about pricing.
+
+But I want to focus here, who to create a pricing platform. For that we need to understad a pricing in the same way.
+
+
+
+
+
+
 
 
 Price is f(x) -> y where x is set of parameters and y is the result of this 
