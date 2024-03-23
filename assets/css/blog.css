@@ -30,6 +30,11 @@ body {
   line-height: 2rem;
   background-color: var(--gray-5);
 }
+html.empty,
+html.empty body {
+  color: var(--gray-6);
+  background-color: var(--white-1);
+}
 header {
   padding: 2rem 0 4rem 0;
 }
@@ -175,4 +180,29 @@ main {
   .articles .article .article-title a {
     font-size: 1rem;
   }
+}
+
+.thisisme {
+  border-radius: 5px;
+  box-shadow: 0 0 2px var(--gray-6);
+
+  width: 150px;
+}
+
+.empty h1 {
+  margin: 60px 0 40px 0;
+}
+.empty h2 {
+  margin: 30px 0 20px 0;
+}
+
+.empty h3 {
+  margin: 15px 0 10px 0;
+  page-break-before: always;
+}
+.empty p {
+  margin-bottom: 10px;
+}
+.empty main {
+  padding: 1rem 0;
 }
