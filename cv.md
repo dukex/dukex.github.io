@@ -1,9 +1,10 @@
 ---
-title: Emerson Almeida
+title: Emerson Almeida - CV
 layout: empty
 ---
 
-<img src="./assets/thisisme.png" class="thisisme" />
+<img src="./assets/thisisme.png" />
+
 
 # Emerson Almeida
 
