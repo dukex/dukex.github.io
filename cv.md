@@ -3,7 +3,7 @@ title: Emerson Almeida - CV
 layout: empty
 ---
 
-<img src="./assets/thisisme.png" />
+<img src="./assets/thisisme.png" class="thisisme" />
 
 
 # Emerson Almeida
@@ -23,6 +23,8 @@ Additionally, I was the technical leader and architecture strategist at Youse Se
 My expertise in insurance give me the opportunity to be Architecture manager at Too Seguros, an 60 years old insurance company, where my team and I built a huge Insurance Platform to modernize the company.
 
 I enjoy collaborating, supporting, and empowering other developers and teams, and applying my knowledge and experience in different domains and markets.
+
+## Experiences
 
 ### Architecture Manager at Too Seguros
 
