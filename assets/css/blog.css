@@ -200,6 +200,12 @@ main {
   margin: 15px 0 10px 0;
   page-break-before: always;
 }
+
+.empty h3:first-of-type {
+  page-break-before: avoid;
+}
+
+
 .empty p {
   margin-bottom: 10px;
 }
