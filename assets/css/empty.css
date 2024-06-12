@@ -1,0 +1,86 @@
+:root {
+  --gray-1: #3f3f3f;
+  --gray-2: #32353a;
+  --gray-3: #25282c;
+  --gray-4: #151618;
+  --gray-5: #151618;
+  --gray-6: #111111;
+  --white-1: #eeeeee;
+  --white-2: #a9abb3;
+}
+
+* {
+  font-family: inherit;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  -webkit-user-drag: none;
+  -moz-window-dragging: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+* img {
+  max-width: 100%;
+}
+html,
+body {
+  color: var(--gray-6);
+  background-color: var(--white-1);
+  font-family: "JetBrains Mono", monospace;
+  line-height: 2rem;
+}
+main {
+  margin: 0 auto;
+  max-width: 650px;
+  padding: 3rem 0;
+}
+
+@media screen and (max-width: 750px) {
+  body {
+    padding: 1.5rem;
+  }
+}
+
+@media print {
+  .thisisme {
+    display: none;
+  }
+}
+
+.thisisme {
+  border-radius: 5px;
+  box-shadow: 0 0 2px var(--gray-6);
+
+  width: 150px;
+}
+
+h1 {
+  margin: 45px 0;
+  font-size: 45px;
+}
+
+h2 {
+  margin: 40px 0 30px;
+}
+
+h3 {
+  margin: 20px 0;
+}
+
+p {
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+
+p.skills {
+  margin: 15px 0;
+  line-height: 1.5;
+}
+
+main {
+  padding: 1rem 0;
+}
+
+hr {
+  margin-top: 1.75rem !important;
+}

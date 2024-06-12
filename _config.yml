@@ -1,10 +1,10 @@
-title: WTF? 
+title: WTF?
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Duke 
-  email: duke@emersonalmeida.wtf 
+  name: Duke
+  email: duke@emersonalmeida.wtf
 
 plugins:
   - jemoji

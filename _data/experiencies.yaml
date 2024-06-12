@@ -1,0 +1,341 @@
+- title: Architecture Manager
+  company: Too Seguros
+  start_at: Apr 2023
+  end_at: Present
+  about:
+    - Enhanced people management skills and developed corporate strategies.
+    - Guided strategic decisions and drove innovations using deep technical knowledge.
+    - Led and assisted teams in developing innovative technological solutions.
+    - Defined the company's technology strategy and coordinated technical leadership.
+    - Organized the software architecture team and established an architecture committee.
+    - Developed a robust and adaptable insurance platform.
+    - Created an event-driven architecture, improving integration and system responsiveness.
+    - Managed architectural risks, ensuring system resilience and security.
+  technologies:
+    - Python
+    - FastAPI
+    - RabbitMQ
+    - NestJS
+    - C#
+    - Event-driven
+    - Leadership
+    - Strategy
+    - Innovation
+    - Development
+    - Coordination
+    - Architecture
+    - Risk management
+    - AWS
+- title: Founder
+  company: Megafono
+  start_at: Nov 2016
+  end_at: Mar 2024
+  about:
+    - Created and managed Brazil's first podcast platform, focusing on user experience, content delivery, and listener insights.
+    - Developed pricing model, UX, project design, backend software, site frontend, and mobile frontend.
+    - Provided customer support, built roadmaps, and executed brand campaigns.
+    - Successfully ran the project solo and part-time for over 7 years.
+    - Achieved recognition as the leading podcast platform in Brazil.
+  skills:
+    - Product development
+    - UX design
+    - Full-stack development
+    - Customer support
+    - Branding
+    - Elixir
+    - Clojure
+    - Crystal
+    - React
+    - PostgreSQL
+    - Stimulus
+    - Ruby on Rails
+    - AWS
+  technologies:
+    - Ruby
+    - Elixir
+    - Clojure
+    - Crystal
+    - React
+    - PostgreSQL
+    - Stimulus
+    - Ruby on Rails
+- title: Principal Software Engineer
+  company: Youse Seguros
+  start_at: Feb 2022
+  end_at: Mar 2023
+  about:
+    - Led technical teams and mentored developers in a pioneering digital insurtech.
+    - Designed and implemented the tech architecture strategy for the company.
+    - Played a key role in developing easy, digital, and customized insurance platform.
+  technologies:
+    - Leadership
+    - Mentorship
+    - Strategy
+    - Architecture
+    - Ruby on Rails
+    - RabbitMQ
+    - GraphQL
+    - BFF
+    - Event-driven
+    - JavaScript
+    - SASS
+    - AWS
+- title: IT Advisor
+  company: aMORA
+  start_at: Sep 2020
+  end_at: Feb 2022
+  about:
+    - Assisted in launching a proptech aimed at helping Brazilians buy homes.
+    - Created email accounts, the initial website, and assisted in defining the company architecture.
+    - Built the data pipeline from scratch using the Snowplow project.
+    - Collaborated closely with the CTO on technical strategy and implementation.
+  technologies:
+    - Launch assistance
+    - Web development
+    - Architecture
+    - Data pipeline
+    - Vue
+    - JavaScript
+    - Strapi.js
+    - AWS
+    - Snowplow
+    - Data processing
+- title: Staff Software Engineer
+  company: Youse Seguros
+  start_at: Oct 2019
+  end_at: Feb 2022
+  about:
+    - Delivered new features with the team in a pioneering digital insurtech.
+    - Mentored developers and designed the tech architecture strategy.
+    - Contributed to the creation of easy, digital, and customized insurance solutions.
+  technologies:
+    - Feature delivery
+    - Mentorship
+    - Strategy
+    - Architecture
+    - Ruby
+    - Ruby on Rails
+    - RabbitMQ
+    - GraphQL
+    - BFF
+    - Event-driven architecture
+    - JavaScript
+    - SASS
+- title: Technical Lead
+  company: Youse Seguros
+  start_at: Oct 2017
+  end_at: Oct 2019
+  about:
+    - Delivered new features with the team in a pioneering digital insurtech.
+    - Helped the team discover the best solutions for tech and product problems.
+    - Validated integrations with partners and resolved production issues.
+    - Designed and maintained the tech architecture.
+    - Mentored developers.
+  technologies:
+    - Feature delivery
+    - Problem solving
+    - Integration validation
+    - Production issue resolution
+    - Architecture
+    - Mentorship
+    - Ruby
+    - Ruby on Rails
+    - RabbitMQ
+    - Event-driven architecture
+    - JavaScript
+    - SASS
+    - GraphQL
+    - BFF
+    - Scala
+
+- title: Senior Software Engineer
+  company: Youse Seguros
+  start_at: Jun 2016
+  end_at: Oct 2017
+  about:
+    - Delivered new features with the team in a pioneering digital insurtech.
+    - Helped the team discover the best solutions for tech and product problems.
+    - Validated integrations with partners and resolved production issues.
+  technologies:
+    - Feature delivery
+    - Problem solving
+    - Integration validation
+    - Production issue resolution
+    - Ruby
+    - Ruby on Rails
+    - RabbitMQ
+    - Event-driven architecture
+    - JavaScript
+    - SASS
+- title: Full Stack Developer
+  company: Digital Pages
+  start_at: Nov 2014
+  end_at: May 2016
+  about:
+    - Developed core web products for multiplatform content delivery.
+    - Delivered consistent user experiences across web browsers, mobile, Windows, Linux, MacOS, and tablets.
+    - Led a small team to develop a new learning platform, designing and building backend services and frontend.
+  technologies:
+    - Ruby
+    - EmberJS
+    - Rails
+    - NodeJS
+    - NodeWebkit
+    - Cordova
+    - Saltstack
+    - PostgreSQL
+    - Snowplow
+    - Scala
+    - Multiplatform development
+    - UX
+    - Leadership
+
+- title: Full Stack Developer
+  company: Connecorp, LLC
+  start_at: Mar 2013
+  end_at: Nov 2014
+  about:
+    - Developed and maintained the API for Hubbiz.com, a Yelp-like service.
+    - Managed a self-hosted jRuby project with high traffic.
+    - Structured a developer team and implemented new technologies like Lua and Golang.
+  technologies:
+    - Ruby
+    - Grape
+    - Memcached
+    - Java
+    - Golang
+    - Lua
+    - PostgreSQL
+    - Microservice
+    - Messaging
+    - API development
+    - High-traffic management
+    - Team structuring
+    - Leadership
+
+- title: Web Developer
+  company: eduK
+  start_at: Jan 2013
+  end_at: Mar 2013
+  about:
+    - Launched the MVP for a Brazilian learning platform as part of a two-person team.
+    - Developed teacher and student workspaces for content creation and consumption.
+    - Adopted Lean Startup principles.
+  technologies:
+    - Ruby on Rails
+    - JavaScript
+    - HTML
+    - CSS
+    - Backbone.JS
+    - MVP launch
+    - Lean Startup
+
+- title: Full Stack Developer
+  company: Codeminer42
+  start_at: Apr 2012
+  end_at: Jan 2013
+  about:
+    - Developed full stack solutions for clients at a software house.
+    - Worked with top Ruby professionals and utilized latest front-end technologies.
+  technologies:
+    - Ruby on Rails
+    - JavaScript
+    - HTML
+    - CSS
+    - Python
+
+- title: Full Stack Developer
+  company: Pitzi
+  start_at: Feb 2012
+  end_at: Apr 2012
+  about:
+    - Improved payment integration and flow for a mobile insurance startup.
+    - Worked directly with the project founder before the launch.
+  technologies:
+    - Ruby on Rails
+    - JavaScript
+    - HTML
+    - CSS
+    - Payment integration
+    - Startup development
+
+- title: Full Stack Developer
+  company: KeroCarro.com
+  start_at: Oct 2011
+  end_at: Feb 2012
+  about:
+    - Built the backend and frontend for a reverse auction car buying platform.
+    - Worked in a small team to create an innovative product for car buyers.
+  technologies:
+    - Ruby on Rails
+    - JavaScript
+    - HTML
+    - CoffeeScript
+    - CSS
+    - Small team collaboration
+
+- title: Full Stack Developer
+  company: GoNow
+  start_at: Nov 2010
+  end_at: Oct 2011
+  about:
+    - Developed projects using Ruby ecosystem and latest front-end technologies.
+    - Completed a project in France, gaining cultural and customer interaction experience.
+  technologies:
+    - Ruby on Rails
+    - JavaScript
+    - HTML
+    - CoffeeScript
+    - CSS
+    - Ruby ecosystem
+    - Front-end technologies
+    - International project
+
+- title: PHP Developer
+  company: Visie Padroes Web E Treinamento De Tecnologia
+  start_at: Aug 2010
+  end_at: Nov 2010
+  about:
+    - Worked on ad publishing tools for major newspapers.
+    - Learned new technologies and increased Ruby studies during bureaucratic project.
+  technologies:
+    - PHP
+    - JavaScript
+    - Ad publishing tools
+    - Technology learning
+
+- title: Web Developer
+  company: Rifla Designer E Imagem Digital
+  start_at: Oct 2009
+  end_at: Aug 2010
+  about:
+    - Developed dynamic websites and CMS for clients.
+    - Helped transition a graphic agency to online operations.
+  technologies:
+    - PHP
+    - ActionScript 3
+    - ASP
+    - HTML
+    - CSS
+    - CakePHP
+    - jQuery
+    - WordPress
+    - 960gs
+    - Dynamic websites
+    - CMS development
+
+- title: Web Developer
+  company: Penso Logo Escrevo
+  start_at: Sep 2007
+  end_at: Oct 2008
+  about:
+    - Created a public site and administration system for a high school writing project.
+    - Won a prize and was cited in a master's thesis for the project.
+  technologies:
+    - PHP
+    - MySQL
+    - jQuery
+    - CSS
+    - Public site creation
+    - Administration system
+    - Award-winning project
