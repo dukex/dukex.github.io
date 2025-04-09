@@ -1,7 +1,35 @@
+- title: Staff Engineer
+  company: Caju
+  start_at: Ago 2024
+  end_at: Present
+  about:
+    - Provide technical leadership for the company's business platform vision and strategic initiatives.
+    - Create proof-of-concept projects to validate strategic ideas and ensure technical feasibility.
+    - Guide multiple teams to maintain alignment with the company's technical vision and strategic goals.
+    - Collaborate closely with product leadership to translate business requirements into comprehensive technical roadmaps.
+    - Evaluate emerging technologies and architectural patterns to support long-term business objectives.
+    - Ensure technical decisions maintain consistency with established architectural principles and standards.
+    - Identify and mitigate technical risks that could impact platform scalability, reliability, or performance.
+    - Advocate for engineering excellence and best practices across development teams.
+    - Bridge communication between business stakeholders and technical implementation teams.
+    - Lead initiatives to enhance system integration, interoperability, and technical agility.
+  technologies:
+    - Platform
+    - Event-driven
+    - Leadership
+    - Strategy
+    - Innovation
+    - Development
+    - Coordination
+    - Architecture
+    - Risk management
+    - AWS
+    - Kotlin
+    - Spring Boot
 - title: Architecture Manager
   company: Too Seguros
   start_at: Apr 2023
-  end_at: Present
+  end_at: Jun 2024
   about:
     - Enhanced people management skills and developed corporate strategies.
     - Guided strategic decisions and drove innovations using deep technical knowledge.
