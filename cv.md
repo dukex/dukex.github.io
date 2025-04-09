@@ -15,7 +15,7 @@ layout: empty
 
 I am a software specialist with over 15 years of experience.
 
-My expertise spans a wide range of technologies, including React, Ruby on Rails, Typescript, GraphQL, AWS, Python, FastAPI, RabbitMQ, NestJS, Elixir, Crystal, PostgreSQL, Stimulus, NodeJS, Scala, Redis, Memcached, Golang, Lua, Microservice architecture, Event-driven architecture, and more.
+My expertise spans a wide range of technologies, including React, Ruby on Rails, Typescript, GraphQL, AWS, Python, FastAPI, RabbitMQ, NestJS, Elixir, Crystal, PostgreSQL, Stimulus, NodeJS, Scala, Redis, Memcached, Golang, Lua, Kotlin, Flutter, Microservice architecture, Event-driven architecture, and more.
 
 I have a strong background in leadership, mentorship, strategy, development, organization, architecture, problem-solving, production issue resolution, and data processing.
 
