@@ -1,6 +1,6 @@
 - title: Staff Engineer
-  company: Caju
-  start_at: Ago 2024
+  company: Caju Beneficios
+  start_at: Aug 2024
   end_at: Present
   about:
     - Provide technical leadership for the company's business platform vision and strategic initiatives.
@@ -14,22 +14,25 @@
     - Bridge communication between business stakeholders and technical implementation teams.
     - Lead initiatives to enhance system integration, interoperability, and technical agility.
   technologies:
-    - Platform
-    - Event-driven
     - Leadership
     - Strategy
-    - Innovation
-    - Development
-    - Coordination
-    - Architecture
-    - Risk management
     - AWS
     - Kotlin
     - Spring Boot
+    - Kafka
+    - Kotlin
+    - Spring
+    - Scala
+    - React
+    - K8S
+    - AWS
+    - Event-driven Architecture
+    - Platform Architecture
+    - AI Platform (using Mastra)
 - title: Architecture Manager
   company: Too Seguros
   start_at: Apr 2023
-  end_at: Jun 2024
+  end_at: Aug 2024
   about:
     - Enhanced people management skills and developed corporate strategies.
     - Guided strategic decisions and drove innovations using deep technical knowledge.
@@ -54,6 +57,7 @@
     - Architecture
     - Risk management
     - AWS
+    - K8S
 - title: Founder
   company: Megafono
   start_at: Nov 2016

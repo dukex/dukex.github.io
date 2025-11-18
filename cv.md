@@ -3,19 +3,48 @@ title: Emerson Almeida - CV
 layout: empty
 ---
 
+<style>
+  p{
+    margin-bottom: 0.75em
+  }
+  p + ul{
+    margin-bottom: 1em
+  }
+</style>
+
 <img src="./assets/thisisme.png" class="thisisme" />
 
 # Emerson Almeida
 
-- emersonalmeida@hey.com
+- emersonalmeidax@gmail.com
 - +55 11 97741 4937
+- github.com/dukex
 - linkedin.com/in/dukex
 
 ## Summary
 
 I am a software specialist with over 15 years of experience.
 
-My expertise spans a wide range of technologies, including React, Ruby on Rails, Typescript, GraphQL, AWS, Python, FastAPI, RabbitMQ, NestJS, Elixir, Crystal, PostgreSQL, Stimulus, NodeJS, Scala, Redis, Memcached, Golang, Lua, Kotlin, Flutter, Microservice architecture, Event-driven architecture, and more.
+My expertise spans a wide range of technologies, including languages, frameworks, tools, architectures, I know and have a deeply knowledge such as:
+
+- Golang
+- Ruby / Ruby on Rails
+- Javascript / Typescript / React / Vue / Stimulus
+- Dart / Flutter
+- Python / FastAPI
+- Elixir
+- GraphQL
+- AWS
+- Terraform
+- K8s
+- Rabbit MQ
+- Kafka
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Event driven
+- Microservice
 
 I have a strong background in leadership, mentorship, strategy, development, organization, architecture, problem-solving, production issue resolution, and data processing.
 
