@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minicurso C4 Model - Comece por aqui
+title: Minicurso C4 Model - 1.1 Comece por aqui
 date: 2026-04-10 19:50
 categories: [architecture, c4model, tech]
 ---
