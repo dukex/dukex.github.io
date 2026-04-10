@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Minicurso C4 Model - Comece por aqui
-date: 2024-05-17 09:59
-categories: [arquitetura, c4model, tech]
+date: 2026-04-10 19:50
+categories: [architecture, c4model, tech]
 ---
+
+Se você preferir pode [assistir essa aula no Youtube](https://youtu.be/xhif77jNuc4)
 
 # Comece por aqui 
 
