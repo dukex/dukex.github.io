@@ -5,6 +5,8 @@ date: 2026-04-10 23:10
 categories: [architecture, c4model, tech]
 ---
 
+Se você preferir pode [assistir essa aula no Youtube](https://youtu.be/FugyeeVBVzs)
+
 Olá e bem-vindo(a) à nossa aula sobre as abstrações principais do C4 Model!
 
 Na aula anterior, estabelecemos a importância da abstração e da notação. Falamos sobre a genialidade da metáfora do Google Maps: a capacidade de dar zoom para ver o mesmo sistema com diferentes níveis de detalhe.
