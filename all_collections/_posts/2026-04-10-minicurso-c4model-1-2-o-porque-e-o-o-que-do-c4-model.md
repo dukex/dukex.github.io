@@ -1,3 +1,12 @@
+---
+layout: post
+title: Minicurso C4 Model - 1.2 O Porque e o O quê do C4 Model
+date: 2026-04-10 19:50
+categories: [architecture, c4model, tech]
+---
+
+Se você preferir pode [assistir essa aula no Youtube](https://youtu.be/kZKmmfv2qWc)
+
 # O Porque e o O quê do C4 Model
 
 Olá e bem-vindo a nossa primeira aula do Minicurso de C4 Model. 
