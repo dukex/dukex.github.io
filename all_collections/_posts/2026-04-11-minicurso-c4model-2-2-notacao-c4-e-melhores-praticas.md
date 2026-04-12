@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minicurso C4 Model - 2.2 Notação C4 e Melhores Práticas
-date: 2026-04-10 19:50
+date: 2026-04-12 01:52
 categories: [architecture, c4model, tech]
 ---
 
