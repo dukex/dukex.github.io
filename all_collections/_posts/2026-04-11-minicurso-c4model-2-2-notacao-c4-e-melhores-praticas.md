@@ -5,6 +5,9 @@ date: 2026-04-12 01:52
 categories: [architecture, c4model, tech]
 ---
 
+Se você preferir pode [assistir essa aula no Youtube](https://youtu.be/QkkEhZKnVL4)
+
+
 Olá, e bem-vindo(a) de volta! Na última aula, mergulhamos fundo nas 4 abstrações do C4 Model: Contexto, Container, Componente e Código. 
 
 Agora que já sabemos O QUE desenhar em cada nível, vamos focar em COMO desenhar de uma forma que seja clara, consistente e universalmente compreendida.
