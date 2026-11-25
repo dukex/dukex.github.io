@@ -24,9 +24,9 @@ Um ponto importante: o C4 Model não é um padrão rígido como a UML. Ele preza
 Mas para ficar claro a questão da independencia de notação, veja os 3 desenhos abaixo, os 3 são sobre o mesmo sistema, e os 3 estão usando C4 Model para comunicar a mesma coisa, porém com notação diferentes.                                                                                                                                                                                                                                                                                                                
 |                                            |                                            |     
 | ------------------------------------------ | ------------------------------------------ | 
-| ![](https://emersonalmeida.wtf/assets/images/2.2/notation_independence_example_2_0.png) | ![](https://emersonalmeida.wtf/assets/images/2.2/notation_independence_example_2_1.png) |   
-| ![](https://emersonalmeida.wtf/assets/images/2.2/notation_independence_example_1_0.png) | ![](https://emersonalmeida.wtf/assets/images/2.2/notation_independence_example_1_1.png) |
-| ![](https://emersonalmeida.wtf/assets/images/2.2/notation_independence_example_3_0.png) | ![](https://emersonalmeida.wtf/assets/images/2.2/notation_independence_example_3_1.png) |
+| ![](https://dukex.sh/assets/images/2.2/notation_independence_example_2_0.png) | ![](https://dukex.sh/assets/images/2.2/notation_independence_example_2_1.png) |   
+| ![](https://dukex.sh/assets/images/2.2/notation_independence_example_1_0.png) | ![](https://dukex.sh/assets/images/2.2/notation_independence_example_1_1.png) |
+| ![](https://dukex.sh/assets/images/2.2/notation_independence_example_3_0.png) | ![](https://dukex.sh/assets/images/2.2/notation_independence_example_3_1.png) |
 
 Explicado isso, vamos fazer uma escolha por uma notação aqui, vamos começar pelos blocos de construção dos nossos diagramas.
 
@@ -40,7 +40,7 @@ Geralmente, um retangulo com um circulo na parte central acima.
 
 Vamos colocar o nome do usuário, a indicação `[Person]` para identificar esse component como person, e opcionalmente uma descrição dele.
 
-![](https://emersonalmeida.wtf/assets/images/2.2/notation_person.png)
+![](https://dukex.sh/assets/images/2.2/notation_person.png)
 
 ### Software System
 
@@ -52,7 +52,7 @@ Uma caixa, geralmente com cantos arredondados ou retos. É importante diferencia
 
 Vamos colocar o nome do sistema de software, a indicação `[Software System]` para identificar ele como sistema de software, e uma descrição do que ele faz.
 
-![](https://emersonalmeida.wtf/assets/images/2.2/notation_container.png)
+![](https://dukex.sh/assets/images/2.2/notation_container.png)
     
 ### Container
     
@@ -68,11 +68,11 @@ Vamos colocar o nome do container, a indicação `[Container: (tech)]`, para ide
 
 É importante no lugar de `(tech)` colocar a tecnologia do container, isso é altamente recomendado dentro da metodologia do C4 Model.
 
-![](https://emersonalmeida.wtf/assets/images/2.2/notation_container.png)
+![](https://dukex.sh/assets/images/2.2/notation_container.png)
 
 ### Component
 
-![](https://emersonalmeida.wtf/assets/images/2.2/notation_component.png)
+![](https://dukex.sh/assets/images/2.2/notation_component.png)
 
 ### Relacionamento
 
@@ -81,7 +81,7 @@ São as conexões entre os nossos outros componentes, podem ser chamadas de API 
 Como desenhar: Uma linha tracejada (ou não) com o nome da relação, em algumas camadas usamos também abaixo do nome a tecnologia dessa relação. 
 
 
-![](https://emersonalmeida.wtf/assets/images/2.2/notation_relationship.png)
+![](https://dukex.sh/assets/images/2.2/notation_relationship.png)
 
 ### Não precisa ser artista
 
