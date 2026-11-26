@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code can ask. Now it can hear."
-date: 2026-11-30 09:00 -0300
+date: 2026-11-26 09:00 -0300
 categories: [ai, claude-code, open-source, go]
 description: "hark is a small open source Go CLI that prints one line per event from GitHub, Slack, Jira, Linear, Discord, Todoist and Datadog, so Claude Code can run it as a monitor and react to reviews, failed builds and mentions."
 image: /assets/images/hark/og.png
@@ -22,9 +22,9 @@ Claude Code already has the other half: a monitor runs a command in the backgrou
 That command is [hark](https://hark.dukex.sh). You run one per service:
 
     $ hark github
-    2026-11-30T10:05:00Z github pr.changes_requested acme/checkout#15 @carol "move the migration to its own PR (1 inline comments)" https://github.com/acme/checkout/pull/15#pullrequestreview-77
-    2026-11-30T10:12:00Z github ci.failed acme/checkout "CI workflow run failed for main branch"
-    2026-11-30T10:31:00Z github issue.commented dukex/foo#3 @alice "works here, can you share the config?" https://github.com/dukex/foo/issues/3#issuecomment-9
+    2026-11-26T10:05:00Z github pr.changes_requested acme/checkout#15 @carol "move the migration to its own PR (1 inline comments)" https://github.com/acme/checkout/pull/15#pullrequestreview-77
+    2026-11-26T10:12:00Z github ci.failed acme/checkout "CI workflow run failed for main branch"
+    2026-11-26T10:31:00Z github issue.commented dukex/foo#3 @alice "works here, can you share the config?" https://github.com/dukex/foo/issues/3#issuecomment-9
 
 ![hark github printing three events](/assets/images/hark/demo.gif)
 
